@@ -7,6 +7,8 @@ Community hub for **experimental modifications** to the MeloAudio MIDI Commander
 
 Research behind these mods (reverse engineering of the original firmware) lives in the private/ongoing project repo; findings relevant to a mod are summarised in each mod's notes.
 
+> ⚠️ **Warning:** this mod works perfectly, but there is **one aesthetic flaw**: the OLED shows a block of noisy pixels in the CC# field. It is cosmetic only; MIDI output is correct. See the photo below.
+
 ## Available mods
 
 | Mod | Target | What it does | Status |

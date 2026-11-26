@@ -1,3 +1,5 @@
+> ⚠️ **Warning:** this mod works perfectly, but there is **one aesthetic flaw**: the OLED shows a block of noisy pixels in the CC# field. It is cosmetic only; MIDI output is correct. See the photo below.
+
 > Showcase notes. No firmware image or patch tool is distributed here yet.
 
 # v0.1.0-jamp-mod (TEST / experimental, owner-requested)
